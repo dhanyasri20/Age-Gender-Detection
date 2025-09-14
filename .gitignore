@@ -1,0 +1,23 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore datasets (optional, remove if you want to upload datasets)
+dataset/
+*.csv
+*.xlsx
+*.h5
+
+# Ignore virtual environments
+env/
+venv/
+.venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
