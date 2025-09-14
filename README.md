@@ -47,8 +47,8 @@ Age-Gender-Detection/
 CNN Model Accuracy: 92.6%
 
 VGG16 Model Accuracy: 89%
-
-✅ CNN outperformed the VGG16 in terms of accuracy and generalization.
+```
+##  ✅ CNN outperformed the VGG16 in terms of accuracy and generalization.
 📈 See full plots and confusion matrices in the results/ folder.
 
 🚀 How to Run the Project1️⃣ Clone the Repository
@@ -76,25 +76,18 @@ The complete research paper, including methodology, experiments, and analysis, i
 👉 report/Research_Paper_Report.pdf
 
 🛠️ Tech Stack
-
-Python 🐍
-
+```plaintext
+Python 
 TensorFlow / Keras
-
 NumPy, Pandas
-
 Matplotlib, Seaborn
-
 OpenCV
-
 Scikit-learn 
-
+```
 📌 Future Work
 
 Extend dataset for more robust predictions
-
 Experiment with ResNet, EfficientNet, or Vision Transformers
-
 Deploy as a Web App or Mobile Application
 
 🤝 Contributing
@@ -102,10 +95,7 @@ Deploy as a Web App or Mobile Application
 Contributions are welcome! If you’d like to improve this project:
 
 1.Fork the repo
-
 2.Create a new branch
-
 3.Commit your changes
-
 4.Open a Pull Request
-
+```
